@@ -75,7 +75,7 @@ animation-delay: .1s;
 
 .home {
     height: 100vh;
-    background: url(imagens/capa.jpg) no-repeat;
+    background: url(capa.jpg) no-repeat;
     background-color: #081b29;
     background-size: cover;
     background-position: center;
@@ -309,7 +309,7 @@ transition: .5s;
     animation-delay: 1.2s;
     z-index: 2;
     }*/
-    
+
 @keyframes showRight {
     100% {
         width: 0;

@@ -75,7 +75,7 @@ animation-delay: .1s;
 
 .home {
     height: 100vh;
-    background: url(imagens/capa.jpg) no-repeat;
+    background: url(capa.jpg) no-repeat;
     background-color: #081b29;
     background-size: cover;
     background-position: center;
